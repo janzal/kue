@@ -1,5 +1,5 @@
 {
-    "name": "kue"
+    "name": "janzal-kue"
   , "version": "0.6.2"
   , "description": "Feature rich priority job queue backed by redis"
   , "homepage": "http://learnboost.github.com/kue/"
@@ -7,7 +7,7 @@
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
   , "repository":{
         "type": "git"
-      , "url": "https://github.com/LearnBoost/kue.git"
+      , "url": "https://github.com/janzal/kue.git"
     }
   , "dependencies": {
       "redis": "0.7.2"

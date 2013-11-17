@@ -5,3 +5,4 @@ node_modules
 lib/http/public/stylesheets/main.css
 *.rdb
 test/incomplete
+/.project
